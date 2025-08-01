@@ -1,0 +1,22 @@
+{
+  "happy": [
+    "Keep smiling!",
+    "Today is a great day!",
+    "Spread your joy!"
+  ],
+  "sad": [
+    "It's okay to feel sad.",
+    "Better days are coming.",
+    "You’re stronger than you think."
+  ],
+  "anxious": [
+    "Pause and breathe.",
+    "Take it one step at a time.",
+    "You are in control."
+  ],
+  "neutral": [
+    "Stay calm and steady.",
+    "Peace is power.",
+    "Balance is beauty."
+  ]
+}
